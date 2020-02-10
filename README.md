@@ -2,7 +2,7 @@
 
 ## Articles about React
 
-`Swedish`
+### Swedish
 
 [När använder man componentDidMount?](https://www.willandskill.se/sv/naer-anvaender-man-componentdidmount/)
 
@@ -18,7 +18,9 @@
 
 För mer artiklar om React och information oss bakom artiklarna, vänligen besök: [Will & Skill - Digitalbyrå Stockholm](https://www.willandskill.se/sv/)
 
-`English`
+---
+
+### English
 
 [Setup a Next.js project with PM2, Nginx and Yarn on Ubuntu 18.04](https://www.willandskill.se/en/setup-a-next-js-project-with-pm2-nginx-and-yarn-on-ubuntu-18-04/)
 
