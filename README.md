@@ -4,17 +4,38 @@
 
 ### Swedish
 
-[När använder man componentDidMount?](https://www.willandskill.se/sv/naer-anvaender-man-componentdidmount/)
+[När använder man componentDidMount?](https://www.willandskill.se/artiklar/naer-anvaender-man-componentdidmount)
 
-[Såhär undviker du fem enkla misstag när du börjar med React](https://www.willandskill.se/sv/sahaer-undviker-du-fem-enkla-misstag-naer-du-boerjar-med-react/)
+[Såhär undviker du fem enkla misstag när du börjar med React](https://www.willandskill.se/artiklar/undvik-detta-som-react-utvecklare)
 
-[Öka produktiviteten hos ditt team genom att använda dessa verktyg i ditt React projekt](https://www.willandskill.se/sv/oeka-produktiviteten-hos-ditt-team-genom-att-anvaenda-dessa-verktyg-i-ditt-react/)
+[Öka produktiviteten hos ditt team genom att använda dessa verktyg i ditt React projekt](https://www.willandskill.se/artiklar/snabbare-leveranser-med-react)
 
-[Underlätta för ditt team att automatisera felsökning och debugging i React Native](https://www.willandskill.se/sv/underlaetta-foer-ditt-team-att-automatisera-felsoekning-och-debugging-i-react-nat/)
+[Underlätta för ditt team att automatisera felsökning och debugging i React Native](https://www.willandskill.se/artiklar/debugging-i-react-native)
 
-[Kom igång med React i 10 enkla steg](https://www.willandskill.se/sv/kom-igang-med-react-i-10-enkla-steg/)
+[Kom igång med React i 10 enkla steg](https://www.willandskill.se/artiklar/kom-igang-med-react-i-10-enkla-steg)
 
-[Fem UI ramverk du bör utforska som React utvecklare](https://www.willandskill.se/sv/fem-ui-ramverk-du-boer-utforska-som-react-utvecklare/)
+[Fem UI ramverk du bör utforska som React utvecklare](https://www.willandskill.se/artiklar/5-ui-ramverk-foer-react-utvecklare)
+
+
+[StockRepublic - Case Study](https://www.willandskill.se/artiklar/stockrepublic-hemsida-nextjs-tailwind-storyblok-headless-cms)
+
+[React - Vad är React? Vem skapade React? Vilka använder React?](https://www.willandskill.se/artiklar/react)
+
+[Vad gör en React utvecklare på en digitalbyrå](https://www.willandskill.se/artiklar/react-utvecklare-pa-en-digitalbyra-i-stockholm)
+
+[React utvecklare i Stockholm](https://www.willandskill.se/artiklar/react-utvecklare-i-stockholm)
+
+[3 UI bibliotek till React som vi gillar](https://www.willandskill.se/artiklar/3-ui-bibliotek-vi-gillar-foer-react)
+
+[Fördelar med React Native](https://www.willandskill.se/artiklar/foerdelar-med-react-native)
+
+[Varför man ska använda React?](https://www.willandskill.se/artiklar/varfoer-ska-man-anvaenda-react)
+
+[State hantering för React utvecklare](https://www.willandskill.se/artiklar/state-hantering-foer-react-utvecklare)
+
+[Undvik detta som React utvecklare](https://www.willandskill.se/artiklar/undvik-detta-som-react-utvecklare)
+
+[Felsökning i React Native](https://www.willandskill.se/artiklar/debugging-i-react-native)
 
 För mer artiklar om React och information oss bakom artiklarna, vänligen besök: [Will & Skill - Digitalbyrå Stockholm](https://www.willandskill.se/sv/)
 
